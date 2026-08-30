@@ -6,7 +6,7 @@ Este repositorio contiene el material complementario asociado al Trabajo de Fin 
 
 ## Contenido
 
-- `Modelo/IEA-15-240-RWT_v4.1`: archivos de configuración del modelo OpenFAST.
+- `Modelo/IEA-15-240-RWT_v4.1/`: archivos de configuración del modelo OpenFAST.
 - `Casos_simulacion/`: configuraciones empleadas para los casos base y controladores.
 - `Matlab/Scripts/`: scripts de postprocesado, cálculo de métricas y generación de figuras.
 - `Matlab/Matlab_Toolbox/`: funciones auxiliares para lectura y tratamiento de resultados.
