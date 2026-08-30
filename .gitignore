@@ -1,0 +1,27 @@
+# Archivos de salida de OpenFAST
+*.out
+*.outb
+*.sum
+*.ech
+*.log
+
+# Archivos grandes de viento / binarios
+*.bts
+*.wnd
+*.bin
+
+# MATLAB
+*.asv
+*.mat
+*.fig
+slprj/
+codegen/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Temporales
+*.tmp
+*.bak
+~$*
